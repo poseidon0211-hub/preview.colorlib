@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution]()
+- [Live Site](https://colourlibpreview.netlify.app/)
 
 ---
 
@@ -73,3 +73,4 @@ Users should be able to:
 
 
 - I am deeply grateful to Mr. Albert for his dedicated support and encouragement throughout my learning journey in HTML and CSS. His clear explanations and practical advice were especially helpful in completing this project. His mentorship made a significant impact on my understanding and confidence in front-end development.
+
