@@ -1,4 +1,4 @@
-# ⚡ Dynamic CSS Project: Focus on Motion, Variables, & Fluidity
+# Dynamic CSS Project: Focus on Motion, Variables, & Fluidity
 
 This project is a clean, single-file CSS demonstration built to showcase advanced styling concepts, with a primary focus on dynamic motion, maintainability through variables, and fluid, function-based design.
 
@@ -70,5 +70,6 @@ Users should be able to:
 - Frontend Mentor - [@poseidon0211-hub](https://www.frontendmentor.io/poseidon0211-hub)
 
 ## Acknowledgments
+
 
 - I am deeply grateful to Mr. Albert for his dedicated support and encouragement throughout my learning journey in HTML and CSS. His clear explanations and practical advice were especially helpful in completing this project. His mentorship made a significant impact on my understanding and confidence in front-end development.
